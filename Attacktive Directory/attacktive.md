@@ -3,7 +3,7 @@
 ## Windows
 ![](img/5ef76a435aebae7f3fc9e6368b6d51b9.png)
 
-### Brougt to you by
+### Brought to you by
 https://tryhackme.com
 
 ### Write up by
